@@ -1,4 +1,4 @@
-C:\Users\Admin\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.7172.20\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/Admin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.7172.20/bin/ninja/win/ninja.exe -G Ninja C:\Users\Admin\CLionProjects\TP3C
+"C:\Program Files\JetBrains\CLion 2021.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\maxim\Desktop\TP3_C
 -- Configuring done
 -- Generating done
--- Build files have been written to: C:/Users/Admin/CLionProjects/TP3C/cmake-build-debug
+-- Build files have been written to: C:/Users/maxim/Desktop/TP3_C/cmake-build-debug

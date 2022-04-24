@@ -1,9 +1,9 @@
 //
 // Created by Admin on 24/04/2022.
 //
-#include "Header/exercice2.h"
+#include "Header/menu.h"
 
 int main() {
-    Test_Fonctions();
+    Menu();
     return 0;
 }
